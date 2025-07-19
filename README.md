@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0268-missing-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
