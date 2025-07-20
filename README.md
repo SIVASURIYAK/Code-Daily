@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/1894-merge-strings-alternately) |
 ## String Matching
