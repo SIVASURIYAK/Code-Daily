@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0812-rotate-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
