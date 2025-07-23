@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/1894-merge-strings-alternately) |
+| [3396-valid-word](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/3396-valid-word) |
 ## String Matching
 |  |
 | ------- |
