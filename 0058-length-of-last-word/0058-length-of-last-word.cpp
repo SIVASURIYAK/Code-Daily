@@ -1,10 +1,9 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int n=s.length();
         int c=0;
         int i=0;
-        int j=n-1;
+        int j=s.length()-1;
        
         while(j>=0)
         {
