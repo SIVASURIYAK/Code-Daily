@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SIVASURIYAK/https-github.com-SIVASURIYAK-Code-Daily/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
